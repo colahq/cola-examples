@@ -8,8 +8,8 @@
   "author" : "Cola, Inc.",
   "license": "MIT",
   "dependencies" : {
-    "cola-api": "^0.0.4",
-    "cola-tools": "^0.0.8"
+    "cola-api": "^0.1.0",
+    "cola-tools": "^0.1.0"
   },
   "repository": {
     "type": "git",
