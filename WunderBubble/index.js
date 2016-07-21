@@ -6,7 +6,7 @@
 const React = require('react');
 const ReactNative = require('react-native');
 
-const { Bubble } = require('@colahq/cola-api');
+const { Bubble } = require('cola-api');
 
 const Compose = require('./compose.js');
 const Minimize = require('./minimize.js');

@@ -15,7 +15,7 @@ const {
 } = require('react-native');
 var Linking = require('Linking');
 
-const { PrivacyAccess } = require('@colahq/cola-api');
+const { PrivacyAccess } = require('cola-api');
 
 const Access = require('./access.js');
 const Payload = require('./payload.js');

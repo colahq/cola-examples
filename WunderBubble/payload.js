@@ -5,7 +5,7 @@
 // stream as well as dynamic data from Firebase.  Although Firebase is used for
 // this bubble, Firebase is not required.
 
-const { Bubble, Conversation } = require('@colahq/cola-api');
+const { Bubble, Conversation } = require('cola-api');
 
 const Firebase = require('firebase');
 const Uuid = require('react-native-uuid');

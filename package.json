@@ -1,5 +1,5 @@
 {
-  "name" : "@colahq/cola-examples",
+  "name" : "cola-examples",
   "version" : "0.0.1",
   "description" : "Examples of bubbles for Cola Messenger",
   "scripts" : {
@@ -8,8 +8,8 @@
   "author" : "Cola, Inc.",
   "license": "MIT",
   "dependencies" : {
-    "@colahq/cola-api": "^0.0.4",
-    "@colahq/cola-tools": "^0.0.8"
+    "cola-api": "^0.0.4",
+    "cola-tools": "^0.0.8"
   },
   "repository": {
     "type": "git",

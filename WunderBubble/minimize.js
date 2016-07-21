@@ -18,7 +18,7 @@ const {
 	Bubble,
 	Conversation,
 	PrivacyAccess
-} = require('@colahq/cola-api');
+} = require('cola-api');
 
 const Access = require('./access.js');
 const Payload = require('./payload.js');

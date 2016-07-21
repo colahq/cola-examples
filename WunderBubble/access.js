@@ -14,7 +14,7 @@ const {
   View,
 } = require('react-native');
 
-const { PrivacyAccess } = require('@colahq/cola-api');
+const { PrivacyAccess } = require('cola-api');
 
 const Manifest = require('./manifest.json');
 
