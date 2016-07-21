@@ -1,0 +1,18 @@
+{
+  "format" : 1,
+  "identifier" : "com.yourcompany.WunderWeather",
+  "version" : 1,
+  "name" : "Weather Underground",
+  "style" : "edge-to-edge",
+  "icons" : {
+    "22px" : "resources/WU_22px.png",
+    "44px" : "resources/WU_44px.png",
+    "66px" : "resources/WU_66px.png"
+  },
+  "access" : {
+    "privacy" : {
+      "location" : {
+      }
+    }
+  }
+}

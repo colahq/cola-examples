@@ -1,0 +1,22 @@
+{
+  "name" : "@colahq/cola-examples",
+  "version" : "0.0.1",
+  "description" : "Examples of bubbles for Cola Messenger",
+  "scripts" : {
+    "test" : "echo \"Error: no test specified\" && exit 1"
+  },
+  "author" : "Cola, Inc.",
+  "license": "MIT",
+  "dependencies" : {
+    "@colahq/cola-api": "^0.0.4",
+    "@colahq/cola-tools": "^0.0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/colahq/cola-examples.git"
+  },
+  "bugs": {
+    "url": "https://github.com/colahq/cola-bubble/issues"
+  },
+  "homepage": "https://github.com/colahq/cola-bubble#readme"
+}

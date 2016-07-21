@@ -1,0 +1,16 @@
+{
+  "name": "WunderBubble",
+  "version": "1.0.0",
+  "description": "Weather Underground Sample Bubble",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^1.0.12",
+    "firebase": "^3.2.0",
+    "react-native-uuid": "^1.4.8"
+  }
+}
